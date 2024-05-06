@@ -4,7 +4,7 @@
 body {
   background: #bdc3c7;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: radial-gradient(circle at 0.7% 1%, rgb(215, 248, 247) 0%, rgb(102, 188, 239) 100.2%) /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 @font-face {
@@ -159,7 +159,7 @@ h1 {
                             <div class="row ">                                                     
                                 <div class="col">
                                     <h2 class="text-secondary mb-0 brand">
-                                        Online Flight Booking</h2> 
+                                        E-Ticket</h2> 
                                 </div>
                                 <div class="col">
                                     <h2 class="mb-0">'.$class_txt.' CLASS</h2>
@@ -218,12 +218,12 @@ h1 {
                             <div class="row">  
                                 <div class="col">                                    
                                 <h2 class="text-light text-center brand">
-                                    Online Flight Booking</h2> 
+                                    Pacifika Airlines</h2> 
                                 </div>                                      
                             </div>                             
                             <div class="row justify-content-center">
                                 <div class="col-12">                                    
-                                    <img src="assets/images/airtic.png" class="mx-auto d-block"
+                                    <img src="assets/images/artic.png" class="mx-auto d-block"
                                     height="200px" width="200px" alt="">
                                 </div>                                
                             </div>

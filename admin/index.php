@@ -7,7 +7,7 @@ require '../helpers/init_conn_db.php';?>
 <style>
   body {
     /* background-color: #B0E2FF; */
-    background-color: #efefef;
+    background: radial-gradient(592px at 48.2% 50%, rgba(255, 255, 249, 0.6) 0%, rgb(160, 199, 254) 74.6%);
   }
   td {
     /* font-family: 'Assistant', sans-serif !important; */

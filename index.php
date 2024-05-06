@@ -22,7 +22,7 @@ body {
     background-position: center; */
 	background: #bdc3c7;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: radial-gradient(592px at 48.2% 50%, rgba(255, 255, 249, 0.6) 0%, rgb(160, 199, 254) 74.6%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -611,9 +611,9 @@ h1 {
 	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } ;</script>	
 	<div class="main-agileinfo">
 		<h1 class="text-light brand mt-2">
-			<img src="assets/images/airtic.png" 
+			<img src="assets/images/newlogo.png" 
 				height="105px" width="105px" alt="">				
-		Online Flight Booking</h1>
+		Pasifika Airlines Booking System</h1>
 		<div class="sap_tabs">			
 			<div id="horizontalTab">
 				<ul class="resp-tabs-list">
@@ -875,7 +875,7 @@ div.card {
 	</div>
 	<footer class="mt-5">
 	<em><h5 class="text-light text-center p-0 brand mt-2">
-				<img src="assets/images/airtic.png" 
+				<img src="assets/images/newlogo.png" 
 					height="40px" width="40px" alt="">				
 			Online Flight Booking</h5></em>
 	<div class="text-light text-center">&copy; <?php echo date('Y')?> - Developed By USP TEAM MEMBERS<br><br></div>
